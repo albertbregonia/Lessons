@@ -20,4 +20,4 @@ This course entails learning the very fundamentals of computer science. The cour
 - Lesson 9 - Abstraction/Interfaces
 - Lesson 10 - Introduction to Data Structures
 # Other Notes
-I also decided to do create this repository in an attempt to reinforce my understanding of the fundamentals of all of the languages here.
+I also decided to create this repository in an attempt to reinforce my understanding of the fundamentals of all of the languages here.
